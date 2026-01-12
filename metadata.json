@@ -1,0 +1,16 @@
+
+{
+  "name": "Eldoria: The Eternal Legend",
+  "short_name": "Eldoria",
+  "description": "A high-fidelity 3D semi-open world RPG featuring deep character customization, strategic real-time combat, and a dynamic world system built with React and Three.js.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "capabilities": [
+    "vibration",
+    "fullscreen"
+  ],
+  "display": "standalone",
+  "orientation": "landscape"
+}
